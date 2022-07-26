@@ -1,0 +1,5 @@
+python manange.py collectstatic
+
+
+python manage.py createsuperuser
+username
