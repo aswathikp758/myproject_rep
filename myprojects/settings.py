@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Teaflower.apps.TeaflowerConfig',
+    'Teaflower',
     'Http_add3',
 
 

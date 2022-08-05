@@ -18,7 +18,7 @@ from django.urls import path,include
 
 urlpatterns = [
 
-    path('tea', include('Teaflower.urls')),
+    path('', include('Teaflower.urls')),
     path('htp/', include('Http_add3.urls')),
     path('first', include('Firstapp_1.urls')),
     path('dtl1', include('DTL_2.urls')),
